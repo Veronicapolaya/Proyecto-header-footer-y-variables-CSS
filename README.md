@@ -6,7 +6,8 @@ Este es un proyecto de práctica con HTML y CSS donde trabajé con:
 - Uso de Flexbox
 
 🚀 **Prototipo en vivo**:  
-👉 [Ver proyecto publicado en GitHub Pages][(https://veronicapolaya.github.io/Proyecto-header-footer-y-variables-CSS/)]
+👉 [Ver proyecto publicado en GitHub Pages](https://veronicapolaya.github.io/Proyecto-header-footer-y-variables-CSS/)
+
 
 
 
