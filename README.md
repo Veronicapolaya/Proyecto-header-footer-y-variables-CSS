@@ -1,13 +1,11 @@
-# Portafolio
-Sitio del portafolio (HTML + CSS + variables).  
-Clases de Alura / Oracle Next Education.
+# Proyecto Header Footer y Variables CSS 🎨
 
-## Ejecutar
-Abrir `index.html` (recomendado: Live Server en VS Code).
+Este es un proyecto de práctica con HTML y CSS donde trabajé con:
+- Variables de color en CSS
+- Creación de un header y footer
+- Uso de Flexbox
 
-## Estructura
-- `/styles/style.css`
-- `index.html`
-- `about.html`
-- `assets/`
+🚀 **Prototipo en vivo**:  
+👉 [Ver proyecto publicado en GitHub Pages](https://veronicapolaya.github.io/Proyecto-header-footer-y-variables-CSS/)
+
 
